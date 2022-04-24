@@ -13,3 +13,5 @@
 npm start
 
 ## Build Project
+
+npm run build
