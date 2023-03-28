@@ -10,10 +10,3 @@ Hosted at https://pokepedia-albertmanuels.vercel.app/
 - React-Apollo
 - Webpack
 
-## Run Project
-
-npm start
-
-## Build Project
-
-npm run build
