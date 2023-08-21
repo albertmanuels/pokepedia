@@ -1,6 +1,6 @@
 # POKEPEDIA
 
-Hosted at https://pokepedia-albertmanuels.vercel.app/
+Hosted at https://pokepedia.albertmanuel.com
 
 ## Tech Stacks:
 
@@ -8,5 +8,4 @@ Hosted at https://pokepedia-albertmanuels.vercel.app/
 - GraphQL
 - CSS in JS (Emotion)
 - React-Apollo
-- Webpack
 
